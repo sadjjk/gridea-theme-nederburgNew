@@ -1,0 +1,35 @@
+<header id="site-header" class="site-header" role="banner">
+
+
+    <div class="container">
+        <div id="title-info" class="title-info">
+            <div id='site-title' class='site-title'>
+                <a href="<%= themeConfig.domain %>">  <%= themeConfig.siteName %> </a>
+            </div>
+        </div>
+        <button id="toggle-navigation" class="toggle-navigation">
+            <i class="fa fa-bars"></i>
+        </button>
+        <div id="menu-primary-tracks" class="menu-primary-tracks"></div>
+        <div id="menu-primary" class="menu-container menu-primary" role="navigation">
+            <p class="site-description"><%- themeConfig.siteDescription %></p>
+            <div class="menu">
+                <ul id="menu-primary-items" class="menu-primary-items">
+                     <% menus.forEach(function(menu) { %>
+                        <% if (menu.openType === 'External') { %>
+                            <li id="menu-item" class='menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item'>
+                                <a href="<%= menu.link %>" target="_blank"><%= menu.name %></a>
+                            </li>
+                        <% } else { %>
+                            <li id="menu-item" class='menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item'>
+                                <a href="<%= menu.link %>"><%= menu.name %></a>
+                            </li>
+                        <% } %>
+                    <% }); %>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+</header>

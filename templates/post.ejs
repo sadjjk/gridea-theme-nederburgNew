@@ -1,0 +1,63 @@
+<html>
+<head>
+  <%- include('./includes/head',  { siteTitle: `${post.title} | ${themeConfig.siteName}` }) %>
+</head>
+<body class="home blog ct-body standard">
+<div id="overflow-container" class="overflow-container">
+  <%- include('./includes/header') %>
+
+  <div id="main" class="main" role="main">
+    <div id="loop-container" class="loop-container">
+      <div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-design tag-standard-2 tag-tagalicious tag-travel entry full-without-featured odd excerpt-1">
+        <% if (themeConfig.showFeatureImage && post.feature) { %>
+          <div class='featured-image lazy lazy-bg-image' data-background="<%= post.feature %>">
+          </div>
+        <% } %>
+
+        <div class="entry-meta">
+          <span class="date">· <%= post.dateFormat %> ·</span>
+
+          <% post.tags.forEach(function(tag) { %>
+            <span class="category">
+                    <span> / </span>
+                    <a href="<%= tag.link %>"><%= tag.name %></a>
+                </span>
+          <% }); %>
+        </div>
+        <div class='entry-header'>
+          <h1 class='entry-title'><%= post.title %></h1>
+        </div>
+        <div class="entry-container">
+          <div class="entry-content">
+            <article>
+              <%- post.content %>
+            </article>
+          </div>
+        </div>
+          <% if (post.nextPost && !post.hideInList) { %>
+            <nav class="navigation pagination" role="navigation">
+              <h2 class="screen-reader-text">Posts navigation</h2>
+              <div class="nav-links">
+                <a class="next page-numbers" style="font-size:20px" href="<%= post.nextPost.link %>">下一篇-><%= post.nextPost.title %></a>
+              </div>
+            </nav>
+          <% } %>
+      </div>
+      <section id="comments" class="comments">
+        <% if (typeof commentSetting !== 'undefined' && commentSetting.showComment) { %>
+          <% if (commentSetting.commentPlatform === 'gitalk') { %>
+            <%- include('./includes/gitalk') %>
+          <% } %>
+
+          <% if (commentSetting.commentPlatform === 'disqus') { %>
+            <%- include('./includes/disqus') %>
+          <% } %>
+        <% } %>
+      </section>
+    </div>
+  </div>
+  <%- include('./includes/footer') %>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,94 @@
+{
+  "name": "Nederburg",
+  "version": "0.1.0",
+  "author": "Suremotoo",
+  "customConfig": [{
+      "name": "github",
+      "label": "Github",
+      "group": "社交",
+      "value": "",
+      "type": "input",
+      "note": "链接地址"
+    },
+    {
+      "name": "weibo",
+      "label": "微博",
+      "group": "社交",
+      "value": "",
+      "type": "input",
+      "note": "链接地址"
+    },
+    {
+      "name": "qq",
+      "label": "qq",
+      "group": "社交",
+      "value": "",
+      "type": "input",
+      "note": "链接地址"
+    },
+    {
+      "name": "envelope",
+      "label": "envelope",
+      "group": "社交",
+      "value": "",
+      "type": "input",
+      "note": "链接地址"
+    },
+    {
+      "name": "rss",
+      "label": "rss",
+      "group": "社交",
+      "value": "",
+      "type": "input",
+      "note": "链接地址"
+    },
+    {
+      "name": "twitter",
+      "label": "Twitter",
+      "group": "社交",
+      "value": "",
+      "type": "input",
+      "note": "链接地址"
+    },
+    {
+      "name": "zhihu",
+      "label": "知乎",
+      "group": "社交",
+      "value": "",
+      "type": "input",
+      "note": "链接地址"
+    },
+    {
+      "name": "facebook",
+      "label": "Facebook",
+      "group": "社交",
+      "value": "",
+      "type": "input",
+      "note": "链接地址"
+    },
+    {
+      "name": "ga",
+      "label": "跟踪 ID",
+      "group": "谷歌统计",
+      "value": "",
+      "type": "input",
+      "note": "UA-xxxxxxxxx-x"
+    },
+    {
+      "name": "username",
+      "label": "昵称",
+      "group": "用户信息",
+      "value": "",
+      "type": "input",
+      "note": "昵称"
+    },
+    {
+      "name": "userdesc",
+      "label": "简单描述",
+      "group": "用户信息",
+      "value": "",
+      "type": "input",
+      "note": "简单描述"
+    }
+  ]
+}
