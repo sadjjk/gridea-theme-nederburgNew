@@ -22,11 +22,11 @@
 
 ## 展示 ##
 
-![UTOOLS1564450096651.png](https://i.loli.net/2019/07/30/5d3f9d317036f84886.png)
+![](https://i.loli.net/2019/07/30/5d3f9d317036f84886.png)
 
-![UTOOLS1564450150847.png](https://i.loli.net/2019/07/30/5d3f9d6752e1396307.png)
+![](https://i.loli.net/2019/07/30/5d3f9d6752e1396307.png)
 
-![UTOOLS1564450205789.png](https://i.loli.net/2019/07/30/5d3f9d9ed27ab61398.png)
+![](https://i.loli.net/2019/07/30/5d3f9d9ed27ab61398.png)
 
 ## 安装
 1. 如果Gridea正在运行，请先关闭.
