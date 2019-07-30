@@ -29,8 +29,8 @@
         </div>
         <div class="entry-container">
           <div class="entry-content">
-            <article>
-              <%- post.content %>
+            <article id="article">
+
             </article>
           </div>
         </div>
@@ -57,6 +57,19 @@
     </div>
   </div>
   <%- include('./includes/footer') %>
+  <script>
+    var article = `<%- post.content  %>`
+    var content = article.split("<!--more-->")[1]
+    if (content != null)
+        document.getElementById('article').innerHTML = content;
+    else
+        document.getElementById('article').innerHTML = article
+
+    let navigation = new AutocJs({
+        title:'<%= post.title %>',
+        isGenerateOutlineChapterCode: false
+    })
+    </script>
 </div>
 </body>
 </html>

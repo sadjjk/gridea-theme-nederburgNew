@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="503bb571-8ba7-4879-b497-482802893cf5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/media/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/media/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/media/scripts/lib/fitvids.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/media/scripts/lib/fitvids.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/media/scripts/lib/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/media/scripts/lib/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/media/scripts/lib/jquerymigrate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/media/scripts/lib/production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/media/scripts/lib/production.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/abstracts/varibles.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/abstracts/varibles.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/components/about.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/about.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/components/archives.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/archives.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/components/footer.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/footer.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/components/header.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/header.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/components/home.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/home.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/components/post.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/post.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/components/tag.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/tag.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/components/tags.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/components/tags.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/lib/colors.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/lib/colors.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/lib/font-awesome.min.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/lib/font-awesome.min.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/lib/github.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/lib/github.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/lib/katex.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/lib/katex.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/lib/modern-normalize.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/lib/modern-normalize.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/lib/timelime.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/lib/timelime.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/lib/toc.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/lib/toc.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/main.less" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/main.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style-override.js" beforeDir="false" afterPath="$PROJECT_DIR$/style-override.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/archives.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/archives.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/includes/disqus.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/includes/disqus.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/includes/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/includes/footer.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/includes/gitalk.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/includes/gitalk.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/includes/head.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/includes/head.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/includes/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/includes/header.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/includes/pagination.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/includes/pagination.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/includes/post-list-archives.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/includes/post-list-archives.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/includes/post-list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/includes/post-list.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/post.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/post.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/tag.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tag.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/tags.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tags.ejs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/post.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="69" column="7" lean-forward="true" selection-start-line="69" selection-start-column="7" selection-end-line="69" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/includes/footer.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/includes/head.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/media/scripts/autoc.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3696">
+              <caret line="154" column="22" selection-start-line="154" selection-start-column="22" selection-end-line="154" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;excerpt-content&quot;</find>
+      <find>jquery.min.js</find>
+      <find>all.css</find>
+      <find>article</find>
+      <find>autoc.mi</find>
+      <find>outline-outside-button</find>
+      <find>outline-outside-top</find>
+      <find>.outline-outside-top:</find>
+      <find>.outline-outside-modal</find>
+      <find>.outline-outside-footer</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/styles/autoc.less" />
+        <option value="$PROJECT_DIR$/templates/includes/head.ejs" />
+        <option value="$PROJECT_DIR$/templates/includes/footer.ejs" />
+        <option value="$PROJECT_DIR$/assets/media/scripts/autoc.css" />
+        <option value="$PROJECT_DIR$/templates/post.ejs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/gridea-theme-nederburgNew.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gridea-theme-nederburgNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gridea-theme-nederburgNew" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gridea-theme-nederburgNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gridea-theme-nederburgNew" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gridea-theme-nederburgNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gridea-theme-nederburgNew" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gridea-theme-nederburgNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gridea-theme-nederburgNew" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gridea-theme-nederburgNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gridea-theme-nederburgNew" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gridea-theme-nederburgNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gridea-theme-nederburgNew" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gridea-theme-nederburgNew" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gridea-theme-nederburgNew" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Gridea\themes\gridea-theme-nederburgNew\assets\styles\lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Gridea\themes\gridea-theme-nederburgNew\assets\media\scripts" />
+      <recent name="E:\Gridea\themes\gridea-theme-nederburgNew\assets\styles\lib" />
+      <recent name="E:\Gridea\themes\gridea-theme-nederburgNew\assets\media\scripts\lib" />
+      <recent name="E:\Gridea\themes\gridea-theme-nederburgNew\assets\styles\fonts" />
+      <recent name="E:\Gridea\themes\gridea-theme-nederburgNew\assets\styles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="503bb571-8ba7-4879-b497-482802893cf5" name="Default Changelist" comment="" />
+      <created>1560258104650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560258104650</updated>
+      <workItem from="1560258105729" duration="370000" />
+      <workItem from="1563362417191" duration="4406000" />
+      <workItem from="1563371582803" duration="2124000" />
+      <workItem from="1563454936972" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6991000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23101777" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.38106236" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/styles/autoc.min.css" />
+    <entry file="file://$PROJECT_DIR$/assets/media/scripts/lib/autoc.js" />
+    <entry file="file://$PROJECT_DIR$/assets/styles/lib/autoc.css" />
+    <entry file="file://$PROJECT_DIR$/style-override.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/autoc.less" />
+    <entry file="file://$PROJECT_DIR$/assets/media/scripts/autoc.min.css" />
+    <entry file="file://$PROJECT_DIR$/assets/styles/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69557" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/includes/post-list.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/media/scripts/lib/autoc.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/post.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="69" column="7" lean-forward="true" selection-start-line="69" selection-start-column="7" selection-end-line="69" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/includes/footer.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/includes/head.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/media/scripts/autoc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3696">
+          <caret line="154" column="22" selection-start-line="154" selection-start-column="22" selection-end-line="154" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
